@@ -38,15 +38,15 @@ $user_bio ="
 
 
   ";
-$user_adsoyad="Cem Celal Altınay";
-$user_mail ="cemcelal95@hotmail.com";
-$user_gsm ="+90(531) 862 10 30";
-$user_sehir="Silivri / İSTANBUL";
-$user_adres = "Abdülgani Mescit sok. Bedil APT. 5/A Alibey mah.";
-$user_facebook ="https://tr-tr.facebook.com/altinaycca";
-$user_twitter ="https://twitter.com/cemcelalaltnay1";
-$user_insta = "https://www.instagram.com/cemcelalaltinay/";
-$user_git = "https://github.com/cemcelalaltinay/";
+$user_adsoyad="Batuhan Hüner";
+$user_mail ="batuhan_huner59@hotmail.com";
+$user_gsm ="+90(538) 043 24 95";
+$user_sehir="Marmaraereğlisi / TEKİRDAĞ";
+$user_adres = "Cedid Ali Paşa mah. Cihan sk no14 daire 3";
+$user_facebook ="https://tr-tr.facebook.com/batuhan.huner.9";
+$user_twitter ="https://twitter.com/bthnhnr";
+$user_insta = "https://www.instagram.com/bthn.hnr59/";
+$user_git = "https://github.com/ChurchIMAM59/";
 $user_pic1 ="img/elements/g1.jpg";
 $user_pic2 ="img/elements/g2.jpg";
 $user_pic3 ="img/elements/g3.jpg";
